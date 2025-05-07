@@ -1,0 +1,24 @@
+
+# Python cache ve bytecode dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# Sanal ortam klasörü
+venv/
+.env/
+.venv/
+
+# IDE / editör dosyaları
+.vscode/
+.idea/
+
+# Log, veri, geçici dosyalar
+*.log
+*.tmp
+*.bak
+.DS_Store
+
